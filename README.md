@@ -1,3 +1,3 @@
 # graphql
 
-## Первый graphQL проект с субд MySQL
+## Первый graphQL проект с бд MySQL
